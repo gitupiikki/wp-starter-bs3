@@ -1,0 +1,9 @@
+---
+system_packages:
+  - build-essential
+  - autoconf
+  - re2c
+  - curl
+  - git-core
+  - python-mysqldb
+  - nodejs

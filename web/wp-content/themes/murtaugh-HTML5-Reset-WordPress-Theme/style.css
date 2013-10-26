@@ -1,0 +1,28 @@
+.navbar-nav > li > a {
+  color: #fff;
+}
+
+.navbar-default {
+  background-color: #1C4B92;
+  border-color: #1C4B92;
+  top:29px;
+  color: white;
+}
+
+.navbar-nav .active a{
+  background-color: #1C4B92;
+}
+
+/*.navbar-default{}*/
+
+body {
+  padding-top: 50px;
+}
+
+.btn {
+  border-radius: 0px;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color:white;
+}

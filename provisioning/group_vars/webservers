@@ -1,0 +1,7 @@
+---
+domain:       lasihuolto.com
+mysql:
+  name:       wordpress
+  user:       wordpress
+  password:   wFs4OLZpsQEV5yFM
+  host:       localhost
